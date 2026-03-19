@@ -56,6 +56,11 @@
  ###  Vscode - Development
  ###  GitHub 
  ###  Netlify/Vercel - Deployment
+------------
+## Referred Site
+ - https://www.postermywall.com/
+ - freepik.com
+ - https://dribbble.com/
 -----------------
 # Author 
 ## Manjula 
