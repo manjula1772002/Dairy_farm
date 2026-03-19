@@ -6,41 +6,41 @@
 ## Header 
 (
 ### About 
- #### * Info about RK Dairy Farm 
+ #### - Info about RK Dairy Farm 
 ### Products 
- ####  * List of available Products 
+ ####  - List of available Products 
 ### Contact 
- #### * Contact details and customer support
+ #### - Contact details and customer support
 
 )
 
 ----------------
 ## Footer 
- ###  * Additional links and basic info
+ ###  - Additional links and basic info
 -------------------
 ## Login 
 
- ### * Multiple User can login 
- ###  * Guest user can search and select a product but to purchase products , login is mandatory 
+ ### - Multiple User can login 
+ ###  - Guest user can search and select a product but to purchase products , login is mandatory 
 ------------------
 ## Why Choose Us
 
- ### * Product have minimal preservatives 
- ### * No harmful chemicals used
- ### * Fresh and natural products 
+ ### - Product have minimal preservatives 
+ ### - No harmful chemicals used
+ ### - Fresh and natural products 
 ------------------
 ## Authentication 
 
 ## Admin 
- ### * Full access to system
+ ### - Full access to system
  -----
 ##  Login (Registered User)
- ### * Browse and buy a products 
- ### * View order history and track the order
+ ### - Browse and buy a products 
+ ### - View order history and track the order
  -----
 ## Guest user
- ### * Can search product
- ### * Cannot Purchase( need to login for purchase)
+ ### - Can search product
+ ### - Cannot Purchase( need to login for purchase)
 -----------------
 ## Tech Stack 
 
