@@ -59,7 +59,7 @@
 ------------
 ## Referred Site
  - https://www.postermywall.com/
- - freepik.com
+ - https://www.freepik.com/
  - https://dribbble.com/
 -----------------
 # Author 
