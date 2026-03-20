@@ -81,6 +81,6 @@ Users can browse products and securely purchase after logging in.
 - Netlify / Vercel – Deployment  
 
 ---
-## Author
-### Manjula 
+## 👨‍💻 Author
+-  **Manjula** 
 
