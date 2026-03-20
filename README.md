@@ -9,7 +9,7 @@ Users can browse products and securely purchase after logging in.
 
 ## 🚀 Features
 
-### 🔝 Header Navigation
+### 🔝 Header 
 - **About**
   - Information about Farm  
 - **Products**
