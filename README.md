@@ -1,66 +1,86 @@
-# Dairy Farm  Web Application 
----------------------------------------------
-## RK Dairy Farm 
- ### RK Dairy Farm is Web application to provide fresh dairy products to customers.It allow users to search products and securely purchase items after logging in.
------------------
-## Header 
-(
-### About 
- #### - Info about RK Dairy Farm 
-### Products 
- ####  - List of available Products 
-### Contact 
- #### - Contact details and customer support
+# 🥛 Dairy Farm Web Application
+## **RK Dairy Farm**
 
-)
+## 📌 Overview
+**RK Dairy Farm** is a web application designed to provide fresh dairy products direct to customers.  
+Users can browse products and securely purchase after logging in.
 
-----------------
-## Footer 
- ###  - Additional links and basic info
--------------------
-## Login 
+---
 
- ### - Multiple User can login 
- ###  - Guest user can search and select a product but to purchase products , login is mandatory 
-------------------
-## Why Choose Us
+## 🚀 Features
 
- ### - Product have minimal preservatives 
- ### - No harmful chemicals used
- ### - Fresh and natural products 
-------------------
-## Authentication 
+### 🔝 Header Navigation
+- **About**
+  - Information about Farm  
+- **Products**
+  - List of dairy products  
+- **Contact**
+  - Customer support and contact details  
 
-## Admin 
- ### - Full access to system
- -----
-##  Login (Registered User)
- ### - Browse and buy a products 
- ### - View order history and track the order
- -----
-## Guest user
- ### - Can search product
- ### - Cannot Purchase( need to login for purchase)
------------------
-## Tech Stack 
+---
 
-##  Frontend
- ###  React
- ###  TailwindCss
- ###  React Router
-------------
-##  Backend
- ###  Supabase
---------------
-## Tools&Platform
- ###  Vscode - Development
- ###  GitHub 
- ###  Netlify/Vercel - Deployment
-------------
-## Referred Site
- - https://www.postermywall.com/
- - https://www.freepik.com/
- - https://dribbble.com/
------------------
-# Author 
-## Manjula 
+### 🔻 Footer
+- Additional useful links  
+- Basic company information  
+
+---
+
+## 🔐 Authentication & User Roles
+
+### 👑 Admin
+- Full access to the system  
+- Manage products, users, and orders  
+
+---
+
+### 👤 Registered User
+- Browse and purchase products  
+- View order history  
+- Track orders  
+
+---
+
+### 👥 Guest User
+- Can search and view products  
+- Cannot purchase products  
+- Login required for Purchase 
+
+---
+
+## 🔑 Login System
+- Multiple users can log in  
+- Guest users can search products  
+- Login is mandatory for purchasing  
+
+---
+
+## 🌟 Why Choose Us
+- Products contain **minimal preservatives**  
+- **No harmful chemicals** used  
+- 100% **fresh and natural dairy products**  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+- React  
+- Tailwind CSS  
+- React Router  
+
+---
+
+### ⚙️ Backend
+- Supabase  
+
+---
+
+### 🧰 Tools & Platforms
+- VS Code – Development  
+- GitHub – Version Control  
+- Netlify / Vercel – Deployment  
+
+---
+## Author
+### Manjula 
+
