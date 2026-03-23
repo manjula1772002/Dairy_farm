@@ -12,7 +12,6 @@ Users can browse products and securely purchase them after logging in.
 
 ## 🎯 Problem Statement
 - Difficulty in finding **fresh and chemical-free dairy products**
-- No easy way to order dairy products online from local farms
 - Lack of digital platform for dairy farm management
 
 ---
