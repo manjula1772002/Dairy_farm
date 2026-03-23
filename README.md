@@ -12,7 +12,7 @@ Users can browse products and securely purchase them after logging in.
 
 ## 🎯 Problem Statement
 - Difficulty in finding **fresh and chemical-free dairy products**
-- Lack of digital platform for dairy farm management
+- Lack of digital platform 
 
 ---
 
